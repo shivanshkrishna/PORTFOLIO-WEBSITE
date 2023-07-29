@@ -1,0 +1,61 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    background-color: #aac83e;
+    /* color: #ffffff; */
+    line-height: 1.6;
+}
+
+header {
+    font-style: oblique;
+    background-color: #a80000;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    color: white;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header h3 {
+    font-size: 24px;
+}
+
+.about {
+    padding: 20px;
+    color: white;
+}
+
+.projects {
+    padding: 20px;
+    color: rgb(201, 22, 22);
+}
+
+.project {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    border: 7px solid #fff7f7;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #711507;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    font-size: 14px;
+}
